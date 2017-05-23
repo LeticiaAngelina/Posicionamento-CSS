@@ -1,0 +1,19 @@
+.box-green {	/* Class box-green */
+	width: 300px;	/* Largura da box-green */
+	height: 200px;	/* Altura da box-green */
+	background-color: green;	/* Cor de fundo da box-green */
+	border: 10px solid #2D6827;	/* Tamanho e cor da borda */
+	position: absolute;	/* Seu modo de posição */
+	top: 0px;	/* Top = Topo da página */
+	left: 0px;	/* Left = Esquerda da página */
+}
+
+.box-blue {	/* Class box-blue */
+	width: 200px;	/* Largura da box-blue */
+	height: 400px;	/* Altura da box-blue */
+	background-color: blue;	/* Cor de fundo da box-blue */
+	border: 10px solid #1D1A86;	/* Tamanho e cor da borda */
+	position: absolute;	/* Seu modo de posição */
+	bottom: 0ox;	/* Bottom = Lado inferior da página */
+	right: 0px;	/* Right = Direita da página */
+}
